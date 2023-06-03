@@ -4,11 +4,6 @@
 # In[1]:
 
 
-# Name: Soh Swee min
-# Admission number: 2214308
-# Class: DAAAFT1B01
-
-
 # In[2]:
 
 
